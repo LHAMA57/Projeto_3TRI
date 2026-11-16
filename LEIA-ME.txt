@@ -1,0 +1,24 @@
+# Site educativo — Radiação infravermelha
+
+## Arquivos
+- `index.html`: estrutura e conteúdo.
+- `style.css`: visual responsivo e estilos de acessibilidade.
+- `script.js`: interações e calculadora.
+
+## Como abrir
+Abra `index.html` em um navegador moderno. Para publicar, envie os três arquivos para a hospedagem mantendo-os na mesma pasta.
+
+## Personalização
+- Textos e seções: edite `index.html`.
+- Cores, fontes e layout: edite as variáveis no início de `style.css`.
+- Interações: edite `script.js`.
+
+## Acessibilidade
+Inclui link para pular ao conteúdo, estrutura semântica, foco visível, navegação por teclado nos controles nativos, painel de tamanho de texto, alto contraste, redução de animações e modo de leitura. O VLibras é carregado pelo serviço oficial e depende de conexão com a internet. A estrutura para vídeos em Libras está comentada no HTML; adicione arquivos próprios e legendas/transcrições quando disponíveis.
+
+## Observações
+O conteúdo original recebido continha apenas parte do HTML e JavaScript, sem o CSS e com o JavaScript interrompido. Este projeto é uma reconstrução funcional baseada nos trechos e conteúdos disponíveis, não uma edição linha a linha dos arquivos originais.
+
+
+## Tema claro e escuro
+O cabeçalho agora tem um botão para alternar entre modo claro e modo escuro. A escolha fica salva no navegador e é restaurada na próxima visita. Na primeira visita, o site considera a preferência de tema do sistema operacional.
